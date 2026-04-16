@@ -1,4 +1,4 @@
-HI my name is Cassandra, I am currently in university studying Computer Science!
+HI my name is Cassandra, I am currently in university studying Information technology!
 Interested in learning and exploring the language of computers!
 <!---
 Cassy1523/Cassy1523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
